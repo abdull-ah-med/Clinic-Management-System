@@ -1,0 +1,9 @@
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic Management Sytem.csproj.AssemblyReference.cache
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic_Management_Sytem.Properties.Resources.resources
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic Management Sytem.csproj.GenerateResource.cache
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic Management Sytem.csproj.CoreCompileInputs.cache
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\bin\Debug\Clinic Management Sytem.exe.config
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\bin\Debug\Clinic Management Sytem.exe
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\bin\Debug\Clinic Management Sytem.pdb
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic Management Sytem.exe
+C:\Users\0abdu\Desktop\Final Project DB\Clinic Management System\Clinic Management Sytem\obj\Debug\Clinic Management Sytem.pdb
